@@ -5,7 +5,7 @@ import sys
 
 class get_word:
     #enter url for the dictionary
-    url = "https://raw.githubusercontent.com/StarlangSoftware/Dictionary/master/src/main/resources/turkish_dictionary.txt"
+    url = "Your text file.txt"
 #get a random word from the dictionary
     def get_word(self):
         #select a word length
